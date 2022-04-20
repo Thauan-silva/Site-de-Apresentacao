@@ -1,0 +1,25 @@
+body{
+    background-color: 	#9ACD32;
+}
+p{
+    color: aqua;
+    font-size: 50px;
+    text-align: center;
+}
+#contact{
+    list-style-type: none;
+    
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    background-color: black;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 8px;
+    padding: 8px;
+}
+a:hover{
+    background-color: #FFDEAD;
+    color: #800000;
+}

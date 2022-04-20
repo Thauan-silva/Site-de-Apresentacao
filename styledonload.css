@@ -1,0 +1,25 @@
+body{
+    background-color: #008080
+}
+#h1{
+    color: #F0FFF0;
+    text-align: center;
+}
+#links{
+    list-style: none;
+    font-size: 25px;
+    display: inline-block;
+    padding: 15px;
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    color: #B8860B;
+    background-color: #2F4F4F;
+    border-radius: 5px;
+    padding: 15px;
+}
+a:hover{
+    color: #B8860B;
+    background-color: #00FA9A
+}
